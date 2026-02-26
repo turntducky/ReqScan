@@ -27,8 +27,6 @@ And suddenly you're doing **archaeology** on your own code. Scrolling through 30
 
 ---
 
----
-
 ## ⚡ Quick Install (pip)
 
 Want the no-fuss version? Install it globally and use it anywhere:
